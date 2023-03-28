@@ -1112,7 +1112,7 @@
                     <key>SystemAudioVolume</key>
                     <data>Rg==</data>
                     <key>boot-args</key>
-                    <string>-v keepsyms=1 debug=0x100 -igfxonln=1 rtcfx_exclude=00-FF</string>
+                    <string>-v keepsyms=1 debug=0x100 -igfxonln=1 rtcfx_exclude=00-FF darkwake=0</string>
                     <key>csr-active-config</key>
                     <data>ZwAAAA==</data>
                     <key>prev-lang:kbd</key>
@@ -1182,7 +1182,7 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>C02029108J9LNV9CB</string>
+                <string>C02910404QXLNV9AD</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
@@ -1196,9 +1196,9 @@
                 <key>SystemProductName</key>
                 <string>iMac19,1</string>
                 <key>SystemSerialNumber</key>
-                <string>C02D30P9JV3Q</string>
+                <string>C02YDFYVJV3Q</string>
                 <key>SystemUUID</key>
-                <string>0D97D298-E0E6-4499-B5F6-771CC78342B2</string>
+                <string>678B07F7-A4B8-47F7-BBD4-DA7975D52597</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
